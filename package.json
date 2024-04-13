@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-milo-http-parser-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@perseveranza-pets/milo": "^0.2.0"
+  }
+}
